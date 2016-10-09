@@ -7,7 +7,7 @@ namespace WebSpider
     {
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
         {
-            filters.Add(new HandleErrorAttribute());111
+            filters.Add(new HandleErrorAttribute());
         }
     }
 }
